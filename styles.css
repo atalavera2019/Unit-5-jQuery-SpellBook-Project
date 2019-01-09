@@ -1,0 +1,45 @@
+body{
+    background-color:#98E7F7;
+}
+h1 {
+    text-align:center;
+    text-decoration: underline;
+    color:#ccffff;
+    text-shadow: 2px 2px #00ffff;
+}    
+h2 {
+    text-align:center;
+    color:#0000e6;
+    text-shadow: 2px 2px #e6e6ff;
+}    
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70px;
+    height: 30px;
+}    
+img{ 
+    width:350px;
+}
+#marble{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#card{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#rabbit{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#mandy{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
